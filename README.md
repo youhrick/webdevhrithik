@@ -1,10 +1,10 @@
-Hi 👋 My name is Hrithik Mahajan
+Hi 👋 My name is Hrithik
 ================================
 
 Front End Developer
 -------------------
 
-I have been a programmer for 3 years now, it's been a great journey learning, building something from what I have learned. it's a great feeling when you built something beautiful and useful for the client that they can use daily. being a problem solver is something that challenges you every day keeps you going that's what I love about programming and web development.
+I have been a programmer for 3 years now, it's been a great journey learning, building something from what I have learned. it's a great feeling when you built something beautiful and useful for the client that they can use daily. being a problem solver is something that challenges you every day and keeps you going that's what I love about programming and web development.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [NFT Marketplace Landing page](http://pronefnft.netlify.app)
